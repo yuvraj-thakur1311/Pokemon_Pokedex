@@ -94,8 +94,11 @@ npm start
 
 Create a .env file inside the backend/ directory:
 
+```bash
+
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/pokedex
+```
 
 ------
 
