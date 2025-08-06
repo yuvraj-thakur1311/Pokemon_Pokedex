@@ -7,11 +7,11 @@ Built with the MERN stack (MongoDB, Express.js, React, Node.js), this app suppor
 
 ## Folder Structure
 
-├── backend/   ->   Express + MongoDB REST API
-├── frontend / ->  React + Redux client
-├── .gitignore
-├── README.md
-└── package.json
+- backend/   ->   Express + MongoDB REST API
+-  frontend / ->  React + Redux client
+- .gitignore
+- README.md
+- package.json
 
 
 
