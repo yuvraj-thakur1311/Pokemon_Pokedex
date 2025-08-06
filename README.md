@@ -112,4 +112,15 @@ npm test
 
 -------
 
+###  Backend Test Results
+
+<img width="494" height="274" alt="image" src="https://github.com/user-attachments/assets/c91df9c7-57c1-4344-b6f3-55d7f80da455" />
+
+------
+
+
+###  UI Screenshot
+
+<img width="1913" height="867" alt="image" src="https://github.com/user-attachments/assets/99e60d81-a20a-44a3-8a31-57b584075ef0" />
+
 
